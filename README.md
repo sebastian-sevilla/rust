@@ -1,4 +1,4 @@
-# rust
+# Rust Project
 Ejercicio de Rust: Leer data desde un archivo csv
 
 Reto para Kanterita World Wide:
