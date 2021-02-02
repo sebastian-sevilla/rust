@@ -10,3 +10,4 @@ Fuentes:
 - https://rust-lang-nursery.github.io/rust-cookbook/encoding/csv.html
 - https://levelup.gitconnected.com/working-with-csv-data-in-rust-7258163252f8
 - https://docs.rs/csv/1.0.0/csv/tutorial/index.html
+- https://github.com/gma2th/csvpsql
