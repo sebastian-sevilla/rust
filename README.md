@@ -7,7 +7,7 @@ Implementación de proceso de migración de datos de personas en formato CSV a b
 Con el código que creé, logré leer el archivo csv, el cual estaba delimitado con punto y coma (;). Pude almacenar el contenido del archivo en una variable String para luego separar y categorizar la información en una Struct data type. Hasta esa instancia pude llegar en el reto.   
 
 Para ejecutar las lineas de código que creé, se debe usar el commando especificado abajo. data.csv representa el archivo de ejemplo con información de las personas. 
-  cargo run data.csv
+-> cargo run data.csv
 
 Fuentes:
 - https://github.com/bradtraversy/rust_sandbox
