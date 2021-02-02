@@ -1,2 +1,2 @@
 # rust
-Leer data desde una archivo csv
+Ejercicio de Rust: Leer data desde una archivo csv
